@@ -141,7 +141,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>Accessible toilets are available.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
